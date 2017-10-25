@@ -6,4 +6,4 @@
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/layouts-grids-code-along' title='Grid Layout Code-Along'>Grid Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
 
-There were no files to codealong with.
+There were no files to code along with.
